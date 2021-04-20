@@ -54,7 +54,7 @@ namespace JSONSerializationCMAPITest
                 operatorPartyReference = operatorPartyReference
             };
 
-            // Create a new members group within client information one to hold client attributes
+            // Create a new "members" group within client information one to hold client attributes
             myProfile.matterGroups[1].members = new List<Members_Profile>();
 
             // Initialise a count of clients and create a new client "attributes" entry for each one
