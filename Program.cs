@@ -13,11 +13,11 @@ namespace JSONSerializationCMAPITest
         {
             //Values from VF
             string matterTypeReference = "m-12a-cmre";
-            string address = "9 Back Mount Pleasant";
-            string postcode = "LS10 3TD";
+            string address = "8 Wilson Street, Somewhere";
+            string postcode = "LS1 5BD";
             string operatorPartyReference = "6i4seicDL";
 
-            string clFirstNames = "James|David Anthony|Ceaser|Joe";
+            string clFirstNames = "Joe|Jane|Ceaser|Bill";
             string clSurnames = "Hood|Hannan|Hannan-Hood|Bloggs";
 
             string[] clFirstnamesArray = clFirstNames.Split('|');
