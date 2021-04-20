@@ -1,0 +1,11 @@
+﻿                Attributes = new List<Attribute_Profile>
+                {
+                    new Attribute_Profile {attrName = "given-name", attrValue = "James"},
+                    new Attribute_Profile {attrName = "family-name", attrValue = "Hood"}
+                }
+
+
+
+
+
+

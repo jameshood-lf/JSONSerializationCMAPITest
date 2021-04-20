@@ -1,0 +1,37 @@
+{
+  "matterTypeReference": "ABC124355",
+  "matterGroups": 
+  [
+    {
+      "groupType": "MATTER",
+      "members": 
+      [
+        {"Attributes": 
+          [
+            {"attrName": "address","attrValue": "9 Back Mount Pleasant, Leeds"},
+            {"attrName": "postcode","attrValue": "LS10 3TD"}
+          ]
+        }
+      ]
+    },
+    {
+      "groupType": "CLIENT_INDIVIDUAL",
+      "members": 
+      [
+        {"Attributes": 
+          [
+            {"attrName": "given-name","attrValue": "James"},
+            {"attrName": "family-name","attrValue": "Hood"}
+          ]
+        },
+        {"Attributes": 
+          [
+            {"attrName": "given-name","attrValue": "David Anthony"},
+            {"attrName": "family-name","attrValue": "Hannan"}
+          ]
+        }
+      ]
+    }
+  ],
+  "operatorPartyReference": "JAMESWASHERE2021"
+}
