@@ -23,7 +23,7 @@ namespace JSONSerializationCMAPITest
             string[] clFirstnamesArray = clFirstNames.Split('|');
             string[] clSurnamesArray = clSurnames.Split('|');
 
-            // Build the JSON request object 
+            // Initialise & build the JSON request object 
             CreateMatter_Profile myProfile = new CreateMatter_Profile
             {
                 matterTypeReference = matterTypeReference,
